@@ -11,11 +11,9 @@ Help Instruction is a Flutter application that provides users with clear and org
 
 ### app Dart
 ![myapp Dart](myapp.dart.png)
-
 ![Home Screen List](homescreenTextmap.png)
 
 ### Detail Screen 
-### Detail Screen
 
 ![Detail 1](detailscreenA.png)
 
@@ -28,7 +26,7 @@ Help Instruction is a Flutter application that provides users with clear and org
 
 ![Home Screen 1](Ahomescreen.png)
 
-![Home Screen 2](BHomescreen.png)
+![Home Screen 2](Bhomescreen.png)
 
 ![Home Screen 3](Chomescreen.png)
 
